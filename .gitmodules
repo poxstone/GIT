@@ -1,3 +1,6 @@
 [submodule "banner"]
 	path = banner
 	url = https://github.com/poxstone/banner
+[submodule "c-"]
+	path = c-
+	url = https://github.com/poxstone/c-
