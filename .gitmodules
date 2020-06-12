@@ -3,4 +3,4 @@
 	url = https://github.com/poxstone/banner
 [submodule "c-"]
 	path = c-
-	url = https://poxstone:6857bdd7fab6bbe30c6e00cf6fba0801a0b025b0@github.com/poxstone/c-
+	url = https://poxstone:0e3b7153bff93b4cc9dccb54319ed92bdb6e2e4a@github.com/poxstone/c-
